@@ -1,2 +1,1 @@
-# goit-js-hw-04
-Homework 4 of JavaScript Fundamentals: From Basics to Advanced Concepts course
+GitHub Pages: https://gloomcat.github.io/goit-js-hw-04
